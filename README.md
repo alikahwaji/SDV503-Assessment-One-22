@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Assessment Two 👋</h1>
+<h1 align="center">Welcome to Assessment One 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -28,7 +28,7 @@
 
 Feedbacks, issues and requests will be in the issues page!<br />Feel free to check [issues page](https://github.com/alikahwaji/Lab-template/issues). You can also take a look at the [GitHub guide](https://guides.github.com/).
 
-## ⭐️ Assessment Two Instructions 
+## ⭐️ Assessment One Instructions 
 
 Check the :white_check_mark: Todos & :x: Not Todos 
 
@@ -48,9 +48,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Assessment Two Description
+## :page_facing_up: Assessment One Description
 
-:arrow_right: Assessment Two Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
+:arrow_right: Assessment One Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
               outline, due dates and marking rubric
 
 
@@ -58,7 +58,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EcjWQ4X_MAtNjwieCAnAixwBypQ0273RufshX0NU-LUPYQ?e=s0Z5Lk)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment One Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EVgFONYh_D5Mu7t9VxDr4YUBcGY35QS-eQApgJbieU0Jjw?e=dHfiRs)|
 |---|---|---|---|
 
 
