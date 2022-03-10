@@ -1,0 +1,79 @@
+<h1 align="center">Welcome to Assessment Two 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/alikahwaji/Lab-template/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/alikahwaji/Lab-template/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/alikahwaji/lab-template" />
+  </a>
+</p>
+
+***
+
+### 🏠 [Homepage](https://github.com/alikahwaji/Lab-template#readme)
+
+## Tutor
+
+👤 **Ali Kahwaji**
+
+* :school: [SDV503teams](https://teams.microsoft.com/l/team/19%3adM8_WyFnk00MGHARZLQZrcWvUAFZbatGzIlZEKOQQnc1%40thread.tacv2/conversations?groupId=0f0941d0-346e-4ca2-9663-a09899cb2cb8&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
+
+
+## 🤝 Tutor Feedback
+
+Feedbacks, issues and requests will be in the issues page!<br />Feel free to check [issues page](https://github.com/alikahwaji/Lab-template/issues). You can also take a look at the [GitHub guide](https://guides.github.com/).
+
+## ⭐️ Assessment Two Instructions 
+
+Check the :white_check_mark: Todos & :x: Not Todos 
+
+|:1234:|:capital_abcd: Todos|:passport_control:|
+|:-:|---|---|
+|:one:|[@Watch](https://www.youtube.com/watch?v=fRLZIUxva5Q) Setup GitHub classroom as a student|:ballot_box_with_check:|
+|:two:|[@Watch](https://www.youtube.com/watch?v=yXT1ElMEkW8) How to clone a GitHub repo :computer:|:ballot_box_with_check:|
+|:three:|In the js file, provide comments explaining each line of your code. :flashlight:|:ballot_box_with_check:|
+|:four:|Submit both repository's HTTP URL and download the zip folder using assessment two dropbox on moodle. :inbox_tray:|:ballot_box_with_check:|
+|:five:|Write your journal using the journal.md file if provided in the tasks. :pencil:|:ballot_box_with_check:|
+
+|:1234:|:capital_abcd: Not Todos|:passport_control:|
+|:-:|---|---|
+|:one:|Do NOT fork the repo :trident:|:heavy_multiplication_x:|
+|:two:|Do NOT share your code :lock_with_ink_pen:|:heavy_multiplication_x:|
+|:three:|Do NOT commit your code without a message :incoming_envelope:|:heavy_multiplication_x:|
+|:four:|Do NOT Share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
+|:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
+
+## :page_facing_up: Assessment Two Description
+
+:arrow_right: Assessment Two Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
+              outline, due dates and marking rubric
+
+
+:arrow_right: You MUST follow the GitHub classroom repo instrucation provided in the repo README file.
+
+## :books: Resources 
+
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EcjWQ4X_MAtNjwieCAnAixwBypQ0273RufshX0NU-LUPYQ?e=s0Z5Lk)|
+|---|---|---|---|
+
+
+
+## :loudspeaker: IMPORTANT NOTE
+```diff
+- DO NOT confuse yourself between class code activtiy repo submission (which is not marked) and Assessment repo submission (which is marked!). 
++ Completing this assessment is a course requirement. 
+# Assessments' are GRADED.
+! Assessments ARE COMPULSORY. 
+```
+
+## 📝 License
+
+Copyright © 2020 [Ali Kahwaji](https://github.com/alikahwaji).<br />
+This project is [MIT](https://github.com/alikahwaji/Lab-template/blob/master/LICENSE) licensed.
+
+***
